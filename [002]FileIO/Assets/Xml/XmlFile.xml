@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<XmlTestClass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>10</Id>
+  <Value>20</Value>
+  <Boolean>true</Boolean>
+  <CustomData>
+    <XmlTestSubClass>
+      <Code>10</Code>
+      <Value>20</Value>
+    </XmlTestSubClass>
+    <XmlTestSubClass>
+      <Code>30</Code>
+      <Value>5</Value>
+    </XmlTestSubClass>
+    <XmlTestSubClass>
+      <Code>60</Code>
+      <Value>7</Value>
+    </XmlTestSubClass>
+  </CustomData>
+</XmlTestClass>
