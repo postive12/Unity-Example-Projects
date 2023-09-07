@@ -1,4 +1,3 @@
-using Practice.ScriptableObject001;
 using UnityEngine;
 //Add menu
 [CreateAssetMenu(fileName = "ScriptableObjectExample", menuName = "ScriptableObject/ScriptableObjectExample")]
